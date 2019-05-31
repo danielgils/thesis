@@ -1,0 +1,1673 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2019.3.4)  18 MAR 2019 14:29
+entering extended mode
+**./presentation.tex
+(presentation.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamer.cls
+Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
+
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasemodes.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count79
+)
+\beamer@tempbox=\box26
+\beamer@tempcount=\count80
+\c@beamerpauses=\count81
+
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasedecode.st
+y
+\beamer@slideinframe=\count82
+\beamer@minimum=\count83
+)
+\beamer@commentbox=\box27
+\beamer@modecount=\count84
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+\headdp=\dimen102
+\footheight=\dimen103
+\sidebarheight=\dimen104
+\beamer@tempdim=\dimen105
+\beamer@finalheight=\dimen106
+\beamer@animht=\dimen107
+\beamer@animdp=\dimen108
+\beamer@animwd=\dimen109
+\beamer@leftmargin=\dimen110
+\beamer@rightmargin=\dimen111
+\beamer@leftsidebar=\dimen112
+\beamer@rightsidebar=\dimen113
+\beamer@boxsize=\dimen114
+\beamer@vboxoffset=\dimen115
+\beamer@descdefault=\dimen116
+\beamer@descriptionwidth=\dimen117
+\beamer@lastskip=\skip41
+\beamer@areabox=\box28
+\beamer@animcurrent=\box29
+\beamer@animshowbox=\box30
+\beamer@sectionbox=\box31
+\beamer@logobox=\box32
+\beamer@linebox=\box33
+\beamer@sectioncount=\count85
+\beamer@subsubsectionmax=\count86
+\beamer@subsectionmax=\count87
+\beamer@sectionmax=\count88
+\beamer@totalheads=\count89
+\beamer@headcounter=\count90
+\beamer@partstartpage=\count91
+\beamer@sectionstartpage=\count92
+\beamer@subsectionstartpage=\count93
+\beamer@animationtempa=\count94
+\beamer@animationtempb=\count95
+\beamer@xpos=\count96
+\beamer@ypos=\count97
+\beamer@ypos@offset=\count98
+\beamer@showpartnumber=\count99
+\beamer@currentsubsection=\count100
+\beamer@coveringdepth=\count101
+\beamer@sectionadjust=\count102
+\beamer@tocsectionnumber=\count103
+
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseoptions.s
+ty ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count104
+\Gm@cntv=\count105
+\c@Gm@tempcnt=\count106
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count107
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfutil-common.tex"
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen128
+\pgfutil@tempdimb=\dimen129
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfutil-common-lists.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfutil-latex.def"
+\pgfutil@abb=\box34
+
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfrcs.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgf.revision.tex")
+Package: pgfrcs 2019/02/02 v3.1.1 (3.1.1)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfsys.code.tex"
+Package: pgfsys 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen130
+\pgf@y=\dimen131
+\pgf@xa=\dimen132
+\pgf@ya=\dimen133
+\pgf@xb=\dimen134
+\pgf@yb=\dimen135
+\pgf@xc=\dimen136
+\pgf@yc=\dimen137
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count108
+\c@pgf@countb=\count109
+\c@pgf@countc=\count110
+\c@pgf@countd=\count111
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+\pgf@sys@id@count=\count112
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgf.cfg"
+File: pgf.cfg 2019/02/02 v3.1.1 (3.1.1)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2019/02/02 v3.1.1 (3.1.1)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfsyssoftpath@smallbuffer@items=\count113
+\pgfsyssoftpath@bigbuffer@items=\count114
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfcore.code.tex"
+Package: pgfcore 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmath.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmathcalc.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmathutil.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen138
+\pgfmath@count=\count115
+\pgfmath@box=\box35
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmathfunctions.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmathfunctions.basic.code.te
+x")
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmathfunctions.trigonometric
+.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmathfunctions.random.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmathfunctions.comparison.co
+de.tex")
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmathfunctions.base.code.tex
+")
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmathfunctions.round.code.te
+x")
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmathfunctions.misc.code.tex
+")
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmathfunctions.integerarithm
+etics.code.tex")))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count116
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@picminx=\dimen139
+\pgf@picmaxx=\dimen140
+\pgf@picminy=\dimen141
+\pgf@picmaxy=\dimen142
+\pgf@pathminx=\dimen143
+\pgf@pathmaxx=\dimen144
+\pgf@pathminy=\dimen145
+\pgf@pathmaxy=\dimen146
+\pgf@xx=\dimen147
+\pgf@xy=\dimen148
+\pgf@yx=\dimen149
+\pgf@yy=\dimen150
+\pgf@zx=\dimen151
+\pgf@zy=\dimen152
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@path@lastx=\dimen153
+\pgf@path@lasty=\dimen154
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@shorten@end@additional=\dimen155
+\pgf@shorten@start@additional=\dimen156
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count117
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgflinewidth=\dimen157
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfcoretransformations.code.te
+x"
+File: pgfcoretransformations.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@pt@x=\dimen158
+\pgf@pt@y=\dimen159
+\pgf@pt@temp=\dimen160
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfcorepathprocessing.code.tex
+"
+File: pgfcorepathprocessing.code.tex 2019/02/02 v3.1.1 (3.1.1)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfarrowsep=\dimen161
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@max=\dimen162
+\pgf@sys@shading@range@num=\count118
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfexternal@startupbox=\box39
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2019/02/02 v3.1.1 (3.1.1)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)))
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count119
+\XC@countmixins=\count120
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen163
+\Hy@linkcounter=\count121
+\Hy@pagecounter=\count122
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count123
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4374.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4374.
+Package hyperref Info: Option `implicit' set `false' on input line 4374.
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count124
+
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen164
+\Fld@menulength=\count125
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count126
+
+
+Package hyperref Message: Stopped early.
+
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count127
+\c@bookmark@seq@number=\count128
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaserequires.
+sty
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasecompatibi
+lity.sty)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasefont.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\sansmathaccent\sansmathacc
+ent.sty
+Package: sansmathaccent 2013/03/28
+
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\filehook\filehook.sty
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)))
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasetranslato
+r.sty ("C:\Program Files\MiKTeX 2.9\tex\latex\translator\translator.sty"
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+))
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasemisc.sty)
+
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasetwoscreen
+s.sty)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseoverlay.s
+ty
+\beamer@argscount=\count129
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count130
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasetitle.sty
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasesection.s
+ty
+\c@lecture=\count131
+\c@part=\count132
+\c@section=\count133
+\c@subsection=\count134
+\c@subsubsection=\count135
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseframe.sty
+\beamer@framebox=\box40
+\beamer@frametitlebox=\box41
+\beamer@zoombox=\box42
+\beamer@zoomcount=\count136
+\beamer@zoomframecount=\count137
+\beamer@frametextheight=\dimen167
+\c@subsectionslide=\count138
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks27
+\framewidth=\dimen168
+\c@framenumber=\count139
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseverbatim.
+sty
+\beamer@verbatimfileout=\write4
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseframesize
+.sty
+\beamer@splitbox=\box43
+\beamer@autobreakcount=\count140
+\beamer@autobreaklastheight=\dimen169
+\beamer@frametitletoks=\toks28
+\beamer@framesubtitletoks=\toks29
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseframecomp
+onents.sty
+\beamer@footins=\box44
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasecolor.sty
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasenotes.sty
+\beamer@frameboxcopy=\box45
+) (C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasetoc.sty
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasetemplates
+.sty
+\beamer@sbttoks=\toks30
+
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseauxtempla
+tes.sty
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseboxes.sty
+\bmb@box=\box46
+\bmb@colorbox=\box47
+\bmb@boxshadow=\box48
+\bmb@boxshadowball=\box49
+\bmb@boxshadowballlarge=\box50
+\bmb@temp=\dimen170
+\bmb@dima=\dimen171
+\bmb@dimb=\dimen172
+\bmb@prevheight=\dimen173
+)
+\beamer@blockheadheight=\dimen174
+))
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaselocalstru
+cture.sty ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+\c@figure=\count141
+\c@table=\count142
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasenavigatio
+n.sty
+\beamer@section@min@dim=\dimen175
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasetheorems.
+sty ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen176
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen177
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count143
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count144
+\leftroot@=\count145
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count146
+\DOTSCASE@=\count147
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen178
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count148
+\c@MaxMatrixCols=\count149
+\dotsspace@=\muskip11
+\c@parentequation=\count150
+\dspbrk@lvl=\count151
+\tag@help=\toks33
+\row@=\count152
+\column@=\count153
+\maxfields@=\count154
+\andhelp@=\toks34
+\eqnshift@=\dimen179
+\alignsep@=\dimen180
+\tagshift@=\dimen181
+\tagwidth@=\dimen182
+\totwidth@=\dimen183
+\lineht@=\dimen184
+\@envbody=\toks35
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks42
+)
+\c@theorem=\count155
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasethemes.st
+y))
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerthemedefault.
+sty
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerfontthemedefa
+ult.sty)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamercolorthemedef
+ault.sty)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerinnerthemedef
+ault.sty
+\beamer@dima=\dimen185
+\beamer@dimb=\dimen186
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerouterthemedef
+ault.sty))) (beamerthemekuleuven2.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\lmodern.sty"
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.sty
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
+Package: pgf 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfnodeparttextbox=\box53
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
+version-0-65.sty
+Package: pgfcomp-version-0-65 2019/02/02 v3.1.1 (3.1.1)
+\pgf@nodesepstart=\dimen187
+\pgf@nodesepend=\dimen188
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
+version-1-18.sty
+Package: pgfcomp-version-1-18 2019/02/02 v3.1.1 (3.1.1)
+))
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.sty
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfkeys.code.tex"))
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfmath.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmath.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgffor.code.tex"
+Package: pgffor 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmath.code.tex")
+\pgffor@iter=\dimen189
+\pgffor@skip=\dimen190
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\tikz.code.tex"
+Package: tikz 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgflibraryplothandlers.code.te
+x"
+File: pgflibraryplothandlers.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@plot@mark@count=\count156
+\pgfplotmarksize=\dimen191
+)
+\tikz@lastx=\dimen192
+\tikz@lasty=\dimen193
+\tikz@lastxsaved=\dimen194
+\tikz@lastysaved=\dimen195
+\tikzleveldistance=\dimen196
+\tikzsiblingdistance=\dimen197
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count157
+\tikznumberofchildren=\count158
+\tikznumberofcurrentchild=\count159
+\tikz@fig@count=\count160
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfmatrixcurrentrow=\count161
+\pgfmatrixcurrentcolumn=\count162
+\pgf@matrix@numberofcolumns=\count163
+)
+\tikz@expandcount=\count164
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\tikzlibraryshapes.code.tex
+"
+File: tikzlibraryshapes.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\tikzlibraryshapes.geometric.co
+de.tex"
+File: tikzlibraryshapes.geometric.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgflibraryshapes.geometric.cod
+e.tex"
+File: pgflibraryshapes.geometric.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\tikzlibraryshapes.misc.code.te
+x"
+File: tikzlibraryshapes.misc.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgflibraryshapes.misc.code.tex
+"
+File: pgflibraryshapes.misc.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\tikzlibraryshapes.symbols.code
+.tex"
+File: tikzlibraryshapes.symbols.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgflibraryshapes.symbols.code.
+tex"
+File: pgflibraryshapes.symbols.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\tikzlibraryshapes.arrows.code.
+tex"
+File: tikzlibraryshapes.arrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgflibraryshapes.arrows.code.t
+ex"
+File: pgflibraryshapes.arrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\tikzlibraryshapes.callouts.cod
+e.tex"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgflibraryshapes.callouts.code
+.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\tikzlibraryshapes.multipart.co
+de.tex"
+File: tikzlibraryshapes.multipart.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgflibraryshapes.multipart.cod
+e.tex"
+File: pgflibraryshapes.multipart.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfnodepartlowerbox=\box58
+\pgfnodeparttwobox=\box59
+\pgfnodepartthreebox=\box60
+\pgfnodepartfourbox=\box61
+\pgfnodeparttwentybox=\box62
+\pgfnodepartnineteenbox=\box63
+\pgfnodeparteighteenbox=\box64
+\pgfnodepartseventeenbox=\box65
+\pgfnodepartsixteenbox=\box66
+\pgfnodepartfifteenbox=\box67
+\pgfnodepartfourteenbox=\box68
+\pgfnodepartthirteenbox=\box69
+\pgfnodeparttwelvebox=\box70
+\pgfnodepartelevenbox=\box71
+\pgfnodeparttenbox=\box72
+\pgfnodepartninebox=\box73
+\pgfnodeparteightbox=\box74
+\pgfnodepartsevenbox=\box75
+\pgfnodepartsixbox=\box76
+\pgfnodepartfivebox=\box77
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\tikzlibraryshadows.code.tex"
+File: tikzlibraryshadows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\tikzlibraryfadings.code.tex"
+File: tikzlibraryfadings.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgflibraryfadings.code.tex"
+File: pgflibraryfadings.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\tikzlibraryarrows.code.tex
+"
+File: tikzlibraryarrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgflibraryarrows.code.tex"
+File: pgflibraryarrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\arrowsize=\dimen198
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\tikzlibrarybackgrounds.code.te
+x"
+File: tikzlibrarybackgrounds.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@layerbox@background=\box78
+\pgf@layerboxsaved@background=\box79
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\tikzlibrarymindmap.code.tex"
+File: tikzlibrarymindmap.code.tex 2019/02/02 v3.1.1 (3.1.1)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\tikzlibrarytrees.code.tex"
+File: tikzlibrarytrees.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\tikzlibrarydecorations.code.te
+x"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgfmoduledecorations.code.tex"
+\pgfdecoratedcompleteddistance=\dimen199
+\pgfdecoratedremainingdistance=\dimen256
+\pgfdecoratedinputsegmentcompleteddistance=\dimen257
+\pgfdecoratedinputsegmentremainingdistance=\dimen258
+\pgf@decorate@distancetomove=\dimen259
+\pgf@decorate@repeatstate=\count165
+\pgfdecorationsegmentamplitude=\dimen260
+\pgfdecorationsegmentlength=\dimen261
+)
+\tikz@lib@dec@box=\box80
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\tikzlibrarydecorations.pathrep
+lacing.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\pgflibrarydecorations.pathrepl
+acing.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tex\tikzlibrarypositioning.code.te
+x"
+File: tikzlibrarypositioning.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 36.
+)
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerfontthemeseri
+f.sty) ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2017/05/19 3.10 The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2017/01/24 v3.3q English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2017/05/19 3.10 Babel common definitions
+\babel@savecnt=\count166
+\U@D=\dimen262
+LaTeX Info: Redefining \textlatin on input line 1648.
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\latex\anyfontsize\anyfontsize.st
+y
+Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\pifont.sty"
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upsy.fd"
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+)) (presentation.aux)
+\openout1 = `presentation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 37.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmss.fd"
+File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(21.0pt, 322.19536pt, 21.0pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=322.19536pt
+* \textheight=244.6939pt
+* \oddsidemargin=-51.26999pt
+* \evensidemargin=-51.26999pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\danie\AppData\Roaming\MiKTeX\2.9\tex\context\base\mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count167
+\scratchdimen=\dimen263
+\scratchbox=\box81
+\nofMPsegments=\count168
+\nofMParguments=\count169
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count170
+\MPscratchDim=\dimen264
+\MPnumerator=\count171
+\makeMPintoPDFobject=\count172
+\everyMPtoPDFconversion=\toks46
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box82
+Package hyperref Info: Link coloring ON on input line 37.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count173
+)
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
+
+(presentation.out) (presentation.out)
+\@outlinefile=\write5
+\openout5 = `presentation.out'.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\translator\translator-basic-dictionary-
+English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\translator\translator-bibliography-dict
+ionary-English.dict"
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\translator\translator-environment-dicti
+onary-English.dict"
+Dictionary: translator-environment-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\translator\translator-months-dictionary
+-English.dict"
+Dictionary: translator-months-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\translator\translator-numbers-dictionar
+y-English.dict"
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\translator\translator-theorem-dictionar
+y-English.dict"
+Dictionary: translator-theorem-dictionary, Language: English 
+) (presentation.nav)
+<graphics/KUL.pdf, id=61, 159.33528pt x 56.90259pt>
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 37.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+File: graphics/KUL.pdf Graphic file (type pdf)
+
+<use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 38.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 47.
+(pdftex.def)             Requested size: 80.30441pt x 28.67921pt.
+
+<graphics/sedes.png, id=63, 450.7239pt x 523.9575pt>
+File: graphics/sedes.png Graphic file (type png)
+ <use graphics/sedes.png>
+Package pdftex.def Info: graphics/sedes.png used on input line 47.
+(pdftex.def)             Requested size: 187.97539pt x 218.51813pt.
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./graphics/KUL.pdf> <./gr
+aphics/sedes.png>] (presentation.toc)
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 53.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 53.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 53.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 53.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 53.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 53.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 53.
+LaTeX Font Info:    Try loading font information for U+msa on input line 53.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 53.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+File: graphics/KUL.pdf Graphic file (type pdf)
+
+<use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 53.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [2
+
+] (presentation.toc)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 55.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [3
+
+]
+\openout4 = `presentation.vrb'.
+
+
+(presentation.vrb
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 3.
+)
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <12> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 72.
+
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 72.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [4
+
+]
+\openout4 = `presentation.vrb'.
+
+ (presentation.vrb
+<mygraphics/Scheme.png, id=112, 564.1075pt x 262.48062pt>
+File: mygraphics/Scheme.png Graphic file (type png)
+
+<use mygraphics/Scheme.png>
+Package pdftex.def Info: mygraphics/Scheme.png used on input line 6.
+(pdftex.def)             Requested size: 310.26007pt x 144.36478pt.
+)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 82.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [5
+
+ <./mygraphics/Scheme.png>] <mygraphics/Objectives1.png, id=119, 505.89pt x 177
+.16188pt>
+File: mygraphics/Objectives1.png Graphic file (type png)
+
+<use mygraphics/Objectives1.png>
+Package pdftex.def Info: mygraphics/Objectives1.png used on input line 96.
+(pdftex.def)             Requested size: 303.53633pt x 106.29794pt.
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 96.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [6
+
+ <./mygraphics/Objectives1.png>]
+\openout4 = `presentation.vrb'.
+
+ (presentation.vrb)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 111.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [7
+
+]
+\openout4 = `presentation.vrb'.
+
+ (presentation.vrb)
+File: graphics/KUL.pdf Graphic file (type pdf)
+
+<use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 122.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [8
+
+]
+\openout4 = `presentation.vrb'.
+
+ (presentation.vrb
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 18.
+)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 147.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [9
+
+]
+\openout4 = `presentation.vrb'.
+
+
+(presentation.vrb
+File: mygraphics/Scheme.png Graphic file (type png)
+ <use mygraphics/Scheme.png>
+Package pdftex.def Info: mygraphics/Scheme.png used on input line 6.
+(pdftex.def)             Requested size: 310.26007pt x 144.36478pt.
+)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 157.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [10
+
+]
+(presentation.toc)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 175.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [11
+
+]
+<mygraphics/ModFed.png, id=173, 562.1pt x 336.75812pt>
+File: mygraphics/ModFed.png Graphic file (type png)
+
+<use mygraphics/ModFed.png>
+Package pdftex.def Info: mygraphics/ModFed.png used on input line 201.
+(pdftex.def)             Requested size: 281.04932pt x 168.37865pt.
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 201.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [12
+
+ <./mygraphics/ModFed.png>]
+\openout4 = `presentation.vrb'.
+
+ (presentation.vrb
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 3.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmtt.fd"
+File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+<mygraphics/choiceset.png, id=180, 186.6975pt x 161.10187pt>
+File: mygraphics/choiceset.png Graphic file (type png)
+
+<use mygraphics/choiceset.png>
+Package pdftex.def Info: mygraphics/choiceset.png used on input line 9.
+(pdftex.def)             Requested size: 93.34851pt x 80.55074pt.
+)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 230.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [13
+
+ <./mygraphics/choiceset.png>]
+\openout4 = `presentation.vrb'.
+
+ (presentation.vrb)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 247.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [14
+
+] (presentation.vrb)
+File: graphics/KUL.pdf Graphic file (type pdf)
+
+<use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 247.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [15
+
+]
+\openout4 = `presentation.vrb'.
+
+ (presentation.vrb)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 256.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [16
+
+]
+\openout4 = `presentation.vrb'.
+
+
+(presentation.vrb
+LaTeX Font Info:    Font shape `OT1/lmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/lmtt/b/n' tried instead on input line 2.
+
+<mygraphics/Profiling1.png, id=207, 371.3875pt x 238.39063pt>
+File: mygraphics/Profiling1.png Graphic file (type png)
+
+<use mygraphics/Profiling1.png>
+Package pdftex.def Info: mygraphics/Profiling1.png used on input line 4.
+(pdftex.def)             Requested size: 259.96947pt x 166.87228pt.
+)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 264.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [17
+
+ <./mygraphics/Profiling1.png>]
+\openout4 = `presentation.vrb'.
+
+ (presentation.vrb
+<mygraphics/Code1.png, id=215, 380.42125pt x 100.375pt>
+File: mygraphics/Code1.png Graphic file (type png)
+
+<use mygraphics/Code1.png>
+Package pdftex.def Info: mygraphics/Code1.png used on input line 12.
+(pdftex.def)             Requested size: 266.29305pt x 70.26201pt.
+
+<mygraphics/Code2.png, id=216, 380.42125pt x 95.35625pt>
+File: mygraphics/Code2.png Graphic file (type png)
+
+<use mygraphics/Code2.png>
+Package pdftex.def Info: mygraphics/Code2.png used on input line 24.
+(pdftex.def)             Requested size: 266.29305pt x 66.7489pt.
+)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 296.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [18
+
+ <./mygraphics/Code1.png> <./mygraphics/Code2.png>] (presentation.vrb
+File: mygraphics/Code1.png Graphic file (type png)
+ <use mygraphics/Code1.png>
+Package pdftex.def Info: mygraphics/Code1.png used on input line 12.
+(pdftex.def)             Requested size: 266.29305pt x 70.26201pt.
+File: mygraphics/Code2.png Graphic file (type png)
+
+<use mygraphics/Code2.png>
+Package pdftex.def Info: mygraphics/Code2.png used on input line 24.
+(pdftex.def)             Requested size: 266.29305pt x 66.7489pt.
+)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 296.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [19
+
+] (presentation.vrb
+File: mygraphics/Code1.png Graphic file (type png)
+
+<use mygraphics/Code1.png>
+Package pdftex.def Info: mygraphics/Code1.png used on input line 12.
+(pdftex.def)             Requested size: 266.29305pt x 70.26201pt.
+File: mygraphics/Code2.png Graphic file (type png)
+ <use mygraphics/Code2.png>
+Package pdftex.def Info: mygraphics/Code2.png used on input line 24.
+(pdftex.def)             Requested size: 266.29305pt x 66.7489pt.
+)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 296.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+
+[20
+
+]
+\openout4 = `presentation.vrb'.
+
+ (presentation.vrb
+<mygraphics/benchmark1.png, id=237, 506.39188pt x 363.85938pt>
+File: mygraphics/benchmark1.png Graphic file (type png)
+
+<use mygraphics/benchmark1.png>
+Package pdftex.def Info: mygraphics/benchmark1.png used on input line 5.
+(pdftex.def)             Requested size: 253.19531pt x 181.92923pt.
+)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 304.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [21
+
+ <./mygraphics/benchmark1.png>]
+\openout4 = `presentation.vrb'.
+
+ (presentation.vrb
+<mygraphics/benchmark2.png, id=244, 506.39188pt x 363.85938pt>
+File: mygraphics/benchmark2.png Graphic file (type png)
+
+<use mygraphics/benchmark2.png>
+Package pdftex.def Info: mygraphics/benchmark2.png used on input line 5.
+(pdftex.def)             Requested size: 253.19531pt x 181.92923pt.
+)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 312.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [22
+
+ <./mygraphics/benchmark2.png>]
+\openout4 = `presentation.vrb'.
+
+ (presentation.vrb
+<mygraphics/benchmark3.png, id=251, 792.9625pt x 432.61626pt>
+File: mygraphics/benchmark3.png Graphic file (type png)
+
+<use mygraphics/benchmark3.png>
+Package pdftex.def Info: mygraphics/benchmark3.png used on input line 5.
+(pdftex.def)             Requested size: 317.17938pt x 173.04343pt.
+)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 320.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [23
+
+ <./mygraphics/benchmark3.png>]
+\openout4 = `presentation.vrb'.
+
+ (presentation.vrb
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 6.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 6.
+)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 341.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [24
+
+]
+<mygraphics/Objectives_modfed.png, id=265, 469.755pt x 168.63pt>
+File: mygraphics/Objectives_modfed.png Graphic file (type png)
+
+<use mygraphics/Objectives_modfed.png>
+Package pdftex.def Info: mygraphics/Objectives_modfed.png used on input line 34
+8.
+(pdftex.def)             Requested size: 281.85518pt x 101.17877pt.
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 348.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [25
+
+ <./mygraphics/Objectives_modfed.png>] (presentation.toc)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 351.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [26
+
+]
+\openout4 = `presentation.vrb'.
+
+
+(presentation.vrb)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 367.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [27
+
+]
+\openout4 = `presentation.vrb'.
+
+ (presentation.vrb)
+File: graphics/KUL.pdf Graphic file (type pdf)
+
+<use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 381.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [28
+
+]
+\openout4 = `presentation.vrb'.
+
+ (presentation.vrb
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <10.95> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 2.
+)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 409.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [29
+
+]
+<mygraphics/Objectives_kl.png, id=301, 469.25313pt x 166.6225pt>
+File: mygraphics/Objectives_kl.png Graphic file (type png)
+
+<use mygraphics/Objectives_kl.png>
+Package pdftex.def Info: mygraphics/Objectives_kl.png used on input line 416.
+(pdftex.def)             Requested size: 281.55403pt x 99.97426pt.
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 416.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [30
+
+ <./mygraphics/Objectives_kl.png>] (presentation.toc)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 419.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [31
+
+]
+\openout4 = `presentation.vrb'.
+
+
+(presentation.vrb <mygraphics/Coord.png, id=319, 572.1375pt x 215.30438pt>
+File: mygraphics/Coord.png Graphic file (type png)
+
+<use mygraphics/Coord.png>
+Package pdftex.def Info: mygraphics/Coord.png used on input line 13.
+(pdftex.def)             Requested size: 314.67659pt x 118.41777pt.
+)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 446.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [32
+
+ <./mygraphics/Coord.png>]
+\openout4 = `presentation.vrb'.
+
+ (presentation.vrb)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 474.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [33
+
+] (presentation.toc)
+File: graphics/KUL.pdf Graphic file (type pdf)
+
+<use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 476.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [34
+
+]
+\openout4 = `presentation.vrb'.
+
+ (presentation.vrb)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 489.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [35
+
+]
+<mygraphics/Objectives2.png, id=348, 504.38437pt x 177.16188pt>
+File: mygraphics/Objectives2.png Graphic file (type png)
+
+<use mygraphics/Objectives2.png>
+Package pdftex.def Info: mygraphics/Objectives2.png used on input line 503.
+(pdftex.def)             Requested size: 302.63295pt x 106.29794pt.
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 503.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [36
+
+ <./mygraphics/Objectives2.png>] [37
+
+]
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 535.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [38
+
+]
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 550.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [39
+
+]
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 565.
+
+File: graphics/KUL.pdf Graphic file (type pdf)
+
+<use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 565.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [40
+
+]
+\openout4 = `presentation.vrb'.
+
+ (presentation.vrb)
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 579.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [41
+
+]
+File: graphics/KUL.pdf Graphic file (type pdf)
+
+<use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 589.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [42
+
+]
+File: graphics/KUL.pdf Graphic file (type pdf)
+ <use graphics/KUL.pdf>
+Package pdftex.def Info: graphics/KUL.pdf used on input line 599.
+(pdftex.def)             Requested size: 38.24367pt x 13.65816pt.
+ [43
+
+]
+\tf@nav=\write6
+\openout6 = `presentation.nav'.
+
+\tf@toc=\write7
+\openout7 = `presentation.toc'.
+
+\tf@snm=\write8
+\openout8 = `presentation.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 600.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 600.
+ (presentation.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 600.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 600.
+Package rerunfilecheck Info: File `presentation.out' has not changed.
+(rerunfilecheck)             Checksum: 9AB4EA409835A34EA5365370F30070EB;331.
+ ) 
+Here is how much of TeX's memory you used:
+ 24369 strings out of 493323
+ 507804 string characters out of 3139067
+ 602169 words of memory out of 3000000
+ 27151 multiletter control sequences out of 15000+200000
+ 120717 words of font info for 84 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,16n,91p,913b,889s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/M
+iKTeX 2.9/fonts/enc/dvips/lm/lm-rmtt.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc
+/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-math
+ex.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}<C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/lm/lmbx8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/lm/lmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi6.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr
+8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/lm/lmss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbo10.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/lm/lmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtk10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/symbols/msam10.pfb>
+Output written on presentation.pdf (43 pages, 1014697 bytes).
+PDF statistics:
+ 493 PDF objects out of 1000 (max. 8388607)
+ 93 named destinations out of 1000 (max. 500000)
+ 267 words of extra memory for PDF output out of 10000 (max. 10000000)
+

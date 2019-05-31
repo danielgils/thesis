@@ -1,0 +1,6 @@
+\select@language {english}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Modified Fedorov Algorithm}{11}{0}{2}
+\beamer@sectionintoc {3}{Kullback-Leibler criterion}{26}{0}{3}
+\beamer@sectionintoc {4}{Coordinate Exchange Algorithm}{31}{0}{4}
+\beamer@sectionintoc {5}{Simulation study}{34}{0}{5}

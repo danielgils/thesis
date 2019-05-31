@@ -1,0 +1,304 @@
+% ----------- Cover Master Thesis Faculty of Sciences ---------------
+% This document should be compiled with pdflatex.  If you want to use
+% latex to compile to dvi/ps, you have to convert the images to (e)ps
+%                           -- December 2012
+% -------------------------------------------------------------------
+\RequirePackage{fix-cm}
+%\documentclass[12pt,a4paper,oneside]{book}
+%   El original viene como book no article
+\documentclass[12pt,a4paper,oneside]{article}
+
+% ------------------------- Load packages ---------------------------
+% You can eventually add these while you load other packages
+% in case you want to integrate the titlepage with the rest of your thesis
+% -------------------------------------------------------------------
+
+\usepackage{graphicx,xcolor,textpos}
+\usepackage{helvet}
+
+%------------------   My packages
+%   R code in latex document
+\usepackage{listings}   
+%   Define colours for R code
+\lstset{language=R,
+    basicstyle=\small\ttfamily,
+    stringstyle=\color{DarkGreen},
+    otherkeywords={0,1,2,3,4,5,6,7,8,9},
+    morekeywords={TRUE,FALSE},
+    deletekeywords={data,frame,length,as,character},
+    keywordstyle=\color{blue},
+    commentstyle=\color{DarkGreen},
+}
+%   To use tabular option
+\usepackage{booktabs}
+%   To use th H after the tables to fix a position in the document
+\usepackage{float}
+%   To block comments
+\usepackage{comment}
+%   To merge cells in tables
+\usepackage{multirow} 
+%   To wrap tables and images
+\usepackage{wrapfig}
+%   To the R code in the appendix
+\usepackage{minted} 
+\usepackage{mdframed}
+%   To write in red
+\usepackage{color}
+\usepackage{xcolor}
+%   To wrap figures
+\usepackage{wrapfig}
+%   To align formulas
+\usepackage{amsmath}
+
+%%%%%%%%%
+%   Add bibliography
+% \usepackage[style=apa, citestyle=authoryear-ibid, sorting=nyt]{biblatex}
+% \addbibresource{bibliography.bib}
+% \DeclareLanguageMapping{english}{english-apa}
+% \setlength\bibitemsep{1.2\itemsep}
+% \renewcommand*{\nameyeardelim}{\addcomma\space} % add comma between author and year
+% \patchcmd{\bibsetup}{\interlinepenalty=5000}{\interlinepenalty=10000}{}{} % no page breaks for an item in the bibliography
+% \renewcommand*{\finalnamedelim}{%
+%   \ifnumgreater{\value{liststop}}{2}{\finalandcomma}{}%
+%   \addspace\&\space} % replace "and" by "&"
+
+% \AtBeginDocument{%
+%   \urlstyle{tt}% APA of bibtex overrides the url style at begin document, this sets it back to what i want 
+% }
+
+%   http://homepage.stat.uiowa.edu/~rlenth/ALPHA/apa-tutorial.pdf
+\usepackage{natbib}
+%   To allow URL's in the reference list
+\usepackage{url}
+%   To print "reference" section in the table of contents
+\usepackage{tocbibind}
+%   To change "Bibliography" by "References"
+\settocbibname{References} 
+
+% ------------------------ Page settings -----------------------------
+% If you change these, the cover layout will also change.  In that
+% case you have to adjust the latter manually.
+% --------------------------------------------------------------------
+
+\topmargin -10mm
+\textwidth 160truemm
+\textheight 240truemm
+\oddsidemargin 0mm
+\evensidemargin 0mm
+
+% ---------------------- textpos settings ----------------------------
+% Some additional settings for the cover
+% --------------------------------------------------------------------
+
+\definecolor{green}{RGB}{172,196,0}
+\definecolor{bluetitle}{RGB}{29,141,176}
+\definecolor{blueaff}{RGB}{0,0,128}
+\definecolor{blueline}{RGB}{82,189,236}
+\setlength{\TPHorizModule}{1mm}
+\setlength{\TPVertModule}{1mm}
+
+\begin{document}
+
+% ----------------------- Cover --------------------------------------
+% Please fill in:
+% - The title and subtitle (if applicable)
+%         to include a formula in the title or subtitle
+%         use  \form{$...$}
+% - Your name
+% - Your (co)supervisor, mentor (if applicable)
+% - Your master
+% - The academic year
+% --------------------------------------------------------------------
+\thispagestyle{empty}
+\newcommand{\form}[1]{\scalebox{1.087}{\boldmath{#1}}}
+\sffamily
+%
+\begin{textblock}{191}(-24,-11)
+\colorbox{blueline}{\hspace{139mm}\ \parbox[c][18truemm]{52mm}{\textcolor{white}{FACULTY OF SCIENCE}}}
+\end{textblock}
+%
+\begin{textblock}{70}(-18,-19)
+\textblockcolour{}
+\includegraphics*[height=19.8truemm]{Images/LogoKULeuven}
+\end{textblock}
+%
+\begin{textblock}{160}(-12,63)
+\textblockcolour{}
+\vspace{-\parskip}
+\flushleft
+\fontsize{40}{42}\selectfont \textcolor{bluetitle}{\form{Extending R package idefix}}\\%[1.5mm]
+\fontsize{20}{22}\selectfont Research proposal
+\end{textblock}
+%
+%\begin{textblock}{82}(50,103)
+%\textblockcolour{}
+%\vspace{-\parskip}
+%\flushleft
+%\fbox{\parbox{79mm}{The background can be left blank or you can insert an image (maximum height 10 cm, width variable, mind author’s rights…). NO logos (you can use the logos inside the manuscript, but not on front or back cover). \textit{Delete this textbox.}}}
+%\end{textblock}
+%
+\begin{textblock}{160}(8,153)
+\textblockcolour{}
+\vspace{-\parskip}
+\flushright
+\fontsize{14}{16}\selectfont \textbf{Daniel Gerardo GIL SANCHEZ}
+\end{textblock}
+%
+\begin{textblock}{90}(-6,191)
+\textblockcolour{}
+\vspace{-\parskip}
+\flushleft
+Supervisor: Prof. Martina Vandebroek\\[-2pt]
+%\textcolor{blueaff}{Affiliation \textsl{(optional)}}\\[5pt]
+%Co-supervisor: \textsl{(optional)}\\[-2pt]
+%\textcolor{blueaff}{Affiliation \textsl{(optional)}}\\[5pt]
+%Mentor: \textsl{(optional)}\\[-2pt]
+%\textcolor{blueaff}{Affiliation \textsl{(optional)}}\\
+\end{textblock}
+
+%
+%\begin{textblock}{160}(8,191)
+%\textblockcolour{}
+%\vspace{-\parskip}
+%\flushright
+%Thesis presented in\\[4.5pt]
+%fulfillment of the requirements\\[4.5pt]
+%for the degree of Master of Science\\[4.5pt]
+%in Xxx\\
+%\end{textblock}
+%
+\begin{textblock}{160}(8,232)
+\textblockcolour{}
+\vspace{-\parskip}
+\flushright
+Academic year 2018-2019
+\end{textblock}
+%
+\begin{textblock}{191}(-24,248)
+{\color{blueline}\rule{550pt}{5.5pt}}
+\end{textblock}
+%
+\vfill
+\newpage
+
+% In case you want to integrate the TeX-file for the titlepage
+% with the rest of your thesis, you cab continue below
+% ------------------------- First pages ---------------------------
+% For table of contents, acknowlegments, ...
+% -----------------------------------------------------------------
+
+%\rmfamily
+%\setcounter{page}{0}
+%\pagenumbering{roman}
+
+
+%\newpage
+% -------------------------- Proper text --------------------------
+% Introduction, chapters, ...
+% -----------------------------------------------------------------
+\pagenumbering{roman}
+\tableofcontents
+
+\newpage 
+
+
+\setcounter{page}{0}
+\pagenumbering{arabic}
+\section{Introduction}
+% Paraphrasing Train, the easiest and most widely used discrete choice model is the logit.
+Discrete choice models are widely used in applied sciences such as transportation, marketing, medicine, among others. These kind of models are characterized by a discrete choice response, that can be nominal or ordinal. To collect information of this nature, fundamental research has focused on the development of the theory of discrete choice experiments, where the respondents are asked to select an alternative, composed by different combinations of attribute levels, from a series of choice sets.\\
+
+\noindent As in experimental design for linear models, in discrete choice experiments the number of possible profiles or treatments explodes as the number of attributes and levels increase. So the use of optimal designs, also known as efficient designs, is widely used in several scenarios because it allows to give reliable conclusions without the use of factorial designs. Consequently, there are different optimality criteria to choose a final design, such as D, A, G and V optimal, each using different methodologies \citep[see][]{Kessels2006}. Since the focus of the majority of applications is to obtain precise estimates from a specified model, the D-optimal criterion is commonly used.\\
+
+\noindent In regard to software implementation, there were no available packages to generate discrete choice designs in R. What people used to do, and still do, is to generate an optimal design for a linear model and use it to collect the data and analyze it with a discrete choice model. This approach can be improved in the sense that instead of using the information matrix of a linear model (usually OLS) to maximize its determinant, the information matrix of non-linear discrete choice models can be used, such as the multinomial logit. \\
+
+\noindent The \textit{idefix} package, already available in CRAN, generates D-optimal (or DB-optimal) designs for discrete choice experiments based on the Multinomial Logit model assuming homogeneity in the respondents and implements individually adapted designs for the mixed multinomial model when the assumption of homogeneity does not hold. The current state of this package generates optimal designs using the Modified Fedorov Algorithm and sequential modified Fedorov algorithm for the Multinomial Logit and Mixed Multinomial Logit model, respectively. This algorithm is computationally expensive and makes difficult its application in real life situations. For this reason, the purpose of this study is to implement other algorithms to create optimal designs and make a simulation study to compare results from different approaches. \\
+
+\noindent In the following, an introduction to the Multinomial Logit model is given, continued by an explanation of the Individually Adaptive Sequential Bayesian (IASB) approach to generate individual designs for each respondent. Then, the modified Fedorov algorithm is presented, as well as the Kullback-Leibler criterion and Coordinate Exchange Algorithm, which are part of the research proposal. Finally, a description of the research objective is presented.
+
+\section{Multinomial logit model}
+This model is derived from the random utility model, where it is assumed that a respondent makes its final choice by measuring the utility of each of the alternatives presented \citep[see][chap. 3]{Train2009}. This utility can be expressed as:
+\begin{equation}
+	U_j = \mathbf{x}^\top_j \pmb{\beta} + \epsilon_j
+\end{equation}
+Where j represents the different alternatives shown within a choice set, $\mathbf{x}_j$ is the corresponding row of the j-th alternative/profile in the design matrix $\mathbf{X}$, $\pmb{\beta}$ denotes the importance of each attribute level and $\epsilon_j$ is an i.i.d extreme value error term. Now, the multinomial logit probability that a respondent chooses the j-th profile in the s-th choice set is:
+\begin{equation}
+	p_{js}(\pmb{\beta}) = \frac{\exp(\mathbf{x}^\top_{js}\pmb{\beta})}{\sum^{J}_{i=1}\exp(\mathbf{x}^\top_{is}\pmb{\beta})}
+\end{equation}
+Because the errors are assumed to be independent, the choices of N respondents re\-present independent draws from a multinomial distribution. Therefore, the log-likelihood can be written as:
+\begin{equation}
+    LL(\mathbf{Y}|\mathbf{X},\pmb{\beta}) = \sum^{S}_{s=1} \sum^{J}_{j=1} \sum^{N}_{n=1} y_{jsn} \ln(p_{js}(\pmb{\beta}))
+\end{equation}
+Where $\mathbf{Y}$ is the matrix of choices from N respondents with elements $y_{jsn}$.
+Since the \textit{idefix} package chooses the best design based on the D-optimal criterion, i.e., the choice that minimizes the determinant of the variance-covariance matrix of the parameter estimators or conversely maximizes the determinant of the Information Matrix, it is of special interest the expression of the Fisher Information matrix:
+\begin{equation}
+\mathbf{M}(\mathbf{X},\pmb{\beta}) = N \sum^{S}_{s=1} \mathbf{X}^\top_s(\mathbf{P}_s-\mathbf{p}_s \mathbf{p}_s^\top) \mathbf{X}_s
+\end{equation}
+Where $\mathbf{p}_s = [p_{1s}, … ,p_{js}]$ and $\mathbf{P}_s=diag[p_{1s}, … ,p_{js}]$.
+It is important to notice that the information matrix depends on the unknown parameters through the probabilities, so initial parameter values are required before computing this matrix. \citet{Kessels2006} show that the Bayesian design approach works well in this scenario, specifying a prior normal distribution for $\beta$, $N(\beta|\beta_0,\Sigma_0)$.\\
+
+As a consequence of the Bayesian approach, a modification in the calculation of the D-optimal criterion has to be done, including the prior distribution of the coefficients. The Bayesian D-optimal criterion, or $D_B$ criterion, is defined as:
+\begin{equation}
+    D_B = \int_{\mathcal{R}^k} \left\{det\left(\mathbf{M}^{-1}(\mathbf{X},\pmb{\beta}\right)\right\}^{1/k}\pi(\pmb{\beta})d\pmb{\beta}
+\end{equation}
+Where $k$ is the number of unknown parameters in the model, i.e., the number of columns in the design matrix $\mathbf{X}$; and $\pi(\pmb{\beta})$ is the prior distribution of $\pmb{\beta}$.\\
+In the \textit{idefix} package, these $D_B$ optimal designs are found using the Modified Fedorov Algorithm.
+
+\section{Individually Adaptive Sequential Bayesian for Mixed Multinomial Logit}
+This approach, proposed by \citet{Yu2011}, is useful when the assumption of homogeneity between respondents does not hold. In this scenario, an extension of the Multinomial Logit model is considered, called the Mixed Multinomial Logit model (MIXL) \citep[see][chap. 6]{Train2009}. It considers that when the respondents are heterogeneous, each of them has its own preference structure. This structure is assumed to behave according to a Multinomial Logit Model. In this sense, the MIXL model can be seen as a combination of different Multinomial Logit models, one for each respondent. As a consequence, the Individually Adaptive Sequential Bayesian generates an individual optimal design for each of the respondents involved in the study, instead of applying the same design for everyone. \\
+
+\noindent  According to \citet{Yu2011}, this procedure consists of two stages: an initial static stage, where the prior distribution of $\pmb{\beta}$ is the same for all respondents and it is used to generate an initial design. And the fully adaptive sequential stage, where the prior information for the design is sequentially updated after each choice made by a respondent. As a result, each respondent will have different choice sets.\\
+
+\noindent  In the \textit{idefix} package, the $D_B$ criterion is used in the search of individual optimal designs through the Modified Fedorov Algorithm.
+
+\section{Modified Fedorov Algorithm}
+Proposed by \citet{Cook1980}, it begins with a random initial design, with its corresponding optimality criterion. The algorithm exchanges an entire row/profile from the initial design matrix with each of the rows from a candidate set of profiles; usually, this candidate set is just the list of all possible combinations of attribute levels. As a result, there will be different modifications of the initial design to which the optimality criterion is computed. Then, the initial design matrix is updated by replacing the existing profile with the profile from the candidate set that improves the optimality criterion. This process is repeated for each of the rows/profiles in the initial design and stops when no exchanges are performed.\\
+
+% t begins with a random initial design, with its corre-sponding optimality criterion.  The algorithm exchanges an entire row/profile from theinitial design matrix with each of the rows from a candidate set of profiles; usually, thiscandidate set is just the list of all possible combinations of attribute levels.  Then, itcomputes the optimality criterion for each profile exchanged in the modified initial de-sign and update the design matrix if the optimality criterion is improved.  This processis repeated for each of the rows/profiles in the initial design and stops when no ex-changes are performed
+
+\noindent This algorithm is computationally expensive because in each iteration, the information matrix and its determinant have to be calculated for each exchange in the initial design. An easy illustration of how time consuming it can be, suppose that the initial design has 12 profiles, corresponding to 6 choice sets with 2 alternatives each. The candidate set has, say, 32 profiles. Then, the algorithm has to calculate $12*32=384$ information matrices and their respective determinants to decide which is the best optimal design. \\
+
+\noindent Furthermore, on top of this number of calculations, remember that the information matrix needs prior values for $\pmb{\beta}$. Assuming just 10 draws from the normal prior distribution, then the number of information matrices and determinants to compute will be $3840$. And taking into account that the optimal design depends on the random initial design, it is desirable to have as many initial designs as possible to avoid local optima. So let's assume that 100 initial designs are enough. In this sense, the final number of calculations of information matrices and determinants to obtain the best possible optimal design is $3,840,000$.\\
+
+\noindent For this reason, different algorithms and criteria have been proposed that are not as computationally expensive as this one. In the following the Kullback-Leibler criterion is presented as well as the Coordinate Exchange Algorithm.
+
+\section{Kullback-Leibler criterion}
+In the context of individual designs for each of the respondents in a study (MIXL model), \citet{Crabbe2014} present the Kullback-Leibler criterion to obtain designs that estimate model coefficients as precise as possible. They claim that designs generated with this approach are equally efficient to those generated by the $D_B$ criterion and at the same time are much faster to calculate. It consists in the Kullback-Leibler distance (KL), which is a measure to compare two density functions. The KL increases when these densities become more divergent. This distance is defined as:
+\begin{equation}
+    KL(f,g) = E_f \left[log \frac{f(x)}{g(x)}\right]
+\end{equation}
+where $f$ and $g$ are densities of a continuous variable $X$ and $E_f$ is the expected value with respect to $f$. \\
+
+\noindent Now, the selection of the best next choice set for a specific respondent is based on the maximization of the KL distance between the current posterior of the coefficients and the updated that one will obtain with the additional response information from the next choice \citep{Crabbe2014}. Since in a choice set there are multiple possible alternatives, the expectation over all possible alternatives is maximized. This expression is as follows:
+\begin{equation}
+    KLP = \sum_{j=1}^J \pi (y_{jsn}|\mathbf{y}_n^{s-1}) KL\left[f(\pmb{\beta})_n|\mathbf{y}_n^{s-1}), f(\pmb{\beta})_n|\mathbf{y}_n^{s-1},y_{jsn})\right]
+\end{equation}
+Where $s$ is the next choice set, $n$ is a particular respondent and $j$ is the chosen alternative. The densities $f(\pmb{\beta})_n|\mathbf{y}_n^{s-1})$ and $f(\pmb{\beta})_n|\mathbf{y}_n^{s-1},y_{jsn})$ are the updated posteriors and $\pi (y_{jsn}|\mathbf{y}_n^{s-1})$ is the posterior weighted choice probabilities for the alternatives in the choice set $s$, given the previous responses.\\
+
+\noindent According to \citet{Crabbe2014}, since the $KLP$ only involves the calculation of the posterior weighted choice probabilities, it is much faster than the D-optimal criterion, where not only the next choice set, but also the previous sets in the design are used in the calculation of the information matrix.\\
+
+\noindent In the \textit{idefix} package, this algorithm has already been implemented; however, simulations in R are not consistent with the results presented by \citet{Crabbe2014}.
+
+\section{Coordinate Exchange Algorithm}
+Proposed by \citet{Meyer1995} as an alternative to profile exchange algorithms, where the whole row of the design matrix is exchanged by a profile from a candidate set (such as Modified Fedorov algorithm). This algorithm exchange one attribute at the time instead of the full profile from the design matrix, resulting in coordinate exchanges in the initial design as its name suggests\footnote{Note that when an attribute is continuous, there is just one coordinate or column in the design matrix. When an attribute is discrete with $a$ levels, there are $a-1$ coordinates/columns in the design matrix.}.\\
+
+\noindent There are some benefits in the search for an optimal design with this algorithm: First, there is no need to give a list of candidate sets because it does not use any candidate profiles to improve the initial design. Second, discrete and continuous design spaces are easily handled because for continuous attributes only one coordinate/column is changed and for discrete attributes, changing one level results in a simultaneous change of all coordinates/columns related to the same attribute. Third and maybe the most important, a reduction in computing time of one or two orders of magnitude in large problems is found when compared with profile exchange algorithms \citep{Meyer1995}.\\
+
+\noindent The algorithm begins with a random initial design and its corresponding optimality criterion, such as $D_B$ or KL criterion. Then, for every profile/row in the initial design, each attribute level is exchanged with all possible levels in the attribute and the initial design is updated by keeping the level that presents the best value of the optimality criterion. Having done this in each element of the design matrix, the process is repeated again until no elements have changed or until the algorithm reaches a prespecified number of iterations. Since the algorithm starts with a random design, it is advisable to have several initial designs to avoid local optima.
+
+%The algorithm begins with a random initial design and its corresponding optimality criterion, such as $D_B$ or KL criterion. Then, for in the starting design matrix the variance function is computed and sorted from small to large values. Next it chooses the first $k$ rows with smallest values in the variance function and in each of them tries to change all possible attribute levels, one at a time. Having done this, it keeps the attribute level that gives the best value of the optimality criterion. Finally, it updates the optimality criterion and repeats this process until the algorithm converges.\\
+
+\section{Research objective}
+Currently, the \textit{idefix} package uses the Modified Fedorov algorithm to create optimal designs for the Multinomial Logit model and Mixed Multinomial Logit model. As it has been shown above, there are different algorithms and optimality criteria that can be implemented to improve the current processing time to generate optimal designs. The purpose of this study can be listed as follows: 
+\begin{itemize}
+    \item Optimize the processing time of the Modified Fedorov algorithm by implementing some parts of the algorithm in C++.
+    \item Implement the KL criterion and compare it with the function that is already available in the package.
+    \item Implement the Coordinate Exchange algorithm to create optimal designs.
+    \item Make a simulation study to compare processing times and optimality of designs between the Modified Fedorov algorithm, the Coordinate Exchange algorithm and the use of $D_B$ and KL criteria.
+    \item Reorganize some functions inside the package, remove possible redundancy in code and implement parts of the code in C++.
+    \item If there is enough time, implement an algorithm to generate optimal design with partial profiles. This approach is useful when the number of attributes or levels is large.
+\end{itemize}
+
+\bibliography{bibliography}
+\bibliographystyle{apalike}
+\end{document}

@@ -1,0 +1,16 @@
+Sections in the document
+Introduction
+Algorithm description
+ModFed
+KL
+Coordinate Exchange
+Current status of the package
+Mention the simulation study
+Optimization of SeqDB in C++
+Practical Arrangements in the package
+	- Github
+	- Reorganize some functions (conditionals)
+	- Eliminate redundancy
+	- Create test inside the package
+	- If possible create vignettes
+In one line mention that if there is enough time, partial profiles could also be included in the package

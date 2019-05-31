@@ -1,0 +1,8 @@
+\frametitle{Objectives}
+\begin{enumerate}
+		\item Improve processing time of the \textbf{Modified Fedorov algorithm} by implementing some parts of the algorithm in C++. \textcolor{red}{\checkmark} %\pause
+		\item Implement the \textbf{KL criterion} and compare it with the function that is already available in the package. \textcolor{red}{\checkmark} %\pause
+		\item Implement the \textbf{Coordinate Exchange algorithm} to create optimal designs. %\pause
+		\item Make a \textbf{simulation study} to compare processing times and optimality of designs between the Modified Fedorov algorithm, the Coordinate Exchange algorithm and the use of DB and KL criteria. %\pause
+		\item Reorganize some functions inside the package, remove possible redundancy in code and implement parts of the code in C++. \textcolor{red}{\checkmark}
+	\end{enumerate}

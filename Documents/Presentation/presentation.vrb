@@ -1,0 +1,12 @@
+\frametitle{Parallel computing}
+\begin{enumerate}
+	\item Create set of copies of \texttt{R} running in parallel
+	\item Send data required to those copies
+	\item Split the task in chunks and send each chunk to each copy
+	\item Wait for all copies to complete their tasks
+	\item Combine results
+	\item Close and delete these copies
+\end{enumerate}
+\begin{block}{}
+	This procedure is used to compute the $D_B$, where for each draw from the prior a correspondent $D-$optimality value is computed.
+\end{block}

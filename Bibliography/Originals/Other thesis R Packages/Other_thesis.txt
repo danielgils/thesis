@@ -1,0 +1,12 @@
+R-programs for multivariate statistics and structural equation modeling
+Lu, Xianni
+Leuven : K.U.Leuven. Faculteit Wetenschappen,; 2009.
+
+Advanced topics in designing and estimating conjoint choice experiments
+Danthurebandara, Vishva M.
+Leuven : K.U.Leuven. Faculteit Economie en Bedrijfswetenschappen,; 2012.
+
+Estimation of discrete choice models in R: writing an R package
+Zhang, Hanshui
+Leuven : K.U. Leuven. Faculteit Wetenschappen,; 2013.
+

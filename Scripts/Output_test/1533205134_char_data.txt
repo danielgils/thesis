@@ -1,0 +1,37 @@
+	set	Alternative A	Alternative B	resp
+Price	1	$1	$5	Alternative A
+Time	1	3 min	12 min	Alternative A
+Comfort	1	average	good	Alternative A
+Price	2	$5	$1	Alternative A
+Time	2	3 min	12 min	Alternative A
+Comfort	2	average	good	Alternative A
+Price	3	$1	$5	Alternative A
+Time	3	12 min	3 min	Alternative A
+Comfort	3	average	good	Alternative A
+Price	4	$5	$1	Alternative A
+Time	4	12 min	3 min	Alternative A
+Comfort	4	average	good	Alternative A
+Price	5	$5	$10	Alternative A
+Time	5	3 min	12 min	Alternative A
+Comfort	5	bad	average	Alternative A
+Price	6	$10	$1	Alternative B
+Time	6	20 min	12 min	Alternative B
+Comfort	6	average	good	Alternative B
+Price	7	$1	$5	Alternative A
+Time	7	12 min	20 min	Alternative A
+Comfort	7	bad	average	Alternative A
+Price	8	$5	$1	Alternative B
+Time	8	12 min	3 min	Alternative B
+Comfort	8	average	good	Alternative B
+Price	9	$1	$5	Alternative B
+Time	9	20 min	12 min	Alternative B
+Comfort	9	bad	average	Alternative B
+Price	10	$10	$5	Alternative B
+Time	10	12 min	20 min	Alternative B
+Comfort	10	bad	good	Alternative B
+Price	11	$1	$5	Alternative B
+Time	11	20 min	12 min	Alternative B
+Comfort	11	average	good	Alternative B
+Price	12	$5	$10	Alternative A
+Time	12	12 min	3 min	Alternative A
+Comfort	12	bad	average	Alternative A

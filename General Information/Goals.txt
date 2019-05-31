@@ -1,0 +1,26 @@
+Hi Daniel, 
+
+
+Here is some information: 
+
+- You can find the package on CRAN and read the help files. 
+- In attachment there is a working paper about the package which explains all functionality in more detail. We are in the review proces with this paper, so THIS SHOULD NOT BE DISTRIBUTED! If you contribute to the package, you can be a co -author on this paper if you want.  
+- The methodology in the package is mainly based on two other papers which are also in attachment (yu & crabbe). We can go through those papers together if you want.  
+- The code is also on my github (and we could collaborate using github): https://github.com/traets/idefix
+
+You could work on: 
+- Improving computation speed by
+        - Making R code more efficient
+        - Implement parts in C++
+- Implement additional functionality: 
+        - There are other algortihms that can be implemented as well. 
+        - Improve the user friendliness.
+        - Improve the compatibility with other R packages (by making use of the object oriented systems in R). 
+        - Make the shiny application more flexible. 
+- Own ideas 
+
+If you have any questions please don't hesitate to ask. 
+
+Kind greetings, 
+
+Frits 

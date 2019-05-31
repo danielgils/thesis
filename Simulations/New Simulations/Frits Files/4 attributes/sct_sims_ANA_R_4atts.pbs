@@ -1,0 +1,8 @@
+#!/bin/bash -l
+#PBS -l walltime=23:00:00,nodes=3:ppn=20
+module load R/3.5.0-foss-2014a-bare
+module load GSL/1.16-intel-2014a
+module load worker/1.5.0-intel-2014a
+
+cd $PBS_O_WORKDIR
+Rscript wrapper_SCT_ANA_R_4att.R $dataT  

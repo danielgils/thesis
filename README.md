@@ -1,4 +1,4 @@
-All the files I used in my thesis are in this repo. It is organized as follows:
+All the files I used in [my thesis](https://github.com/danielgils/thesis/blob/master/Thesis.pdf) are in this repo. It is organized as follows:
   - Bibliography: contains all sources used in the development on this thesis.
   - Documents: contains *latex* files for presentations and documents.
   - General Information: contains information about the Master Thesis in KU Leuven.
